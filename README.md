@@ -29,7 +29,7 @@ Neste projeto, foi feito uma recriação da página de cadastro e login do [Weve
 - ***Observação: É necessário ter o Git, Node.js NPM ou Yarn instalado em sua máquina.***
 ```
 // executar este comando no seu terminal
-$ git clone https://github.com/recreating-weverse-login-page
+$ git clone https://github.com/dev-aclara/recreating-weverse-login-page.git
 $ cd login-page
 
 //iniciando o projeto
