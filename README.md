@@ -9,7 +9,7 @@
  <a href="LICENSE"><img alt="LICENSE" src="https://img.shields.io/badge/license-MIT-%23fc8406"></a>
   <br>
  <a href="https://nextjs.org"><img alt=NEXTJS src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
- <a href="https://nextjs.org"><img alt=TALWINDCSS src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+ <a href="https://tailwindcss.com"><img alt=TALWINDCSS src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
  
 </p>
 
